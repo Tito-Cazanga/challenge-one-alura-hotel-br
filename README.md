@@ -1,4 +1,4 @@
-# Alura Challenge | Oracle One | Back-end | Alura Hotel
+# Challenge ONE| Java | Back-end | Alura Hotel
 ---
 
 <p align="center" >
