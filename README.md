@@ -208,7 +208,7 @@ Para este desafio propomos duas tabelas: <strong>Reservas</strong> e <strong>Hó
 
 <p align="center" >
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/169434993-1d494d38-d122-457d-b973-52b42270114b.png">
-     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/169435061-970c686e-9ac3-4c55-87b3-f2b0d403bd43.png">
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/91544872/173657744-d6a5887a-8f37-4baa-afa0-e3e8ba5e1373.png">
 </p>
 
 ## 🗔 Plugin WindowBuilder
