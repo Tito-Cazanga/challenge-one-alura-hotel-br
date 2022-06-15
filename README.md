@@ -175,6 +175,26 @@ Assim, o projeto deve conter os seguintes arquivos após as importações:
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173168721-5c1b8405-2615-4599-a8bd-079249d7fadd.png">
 </p>
 
+### ⚠️ Baixei o projeto, mas os caracteres especiais não funcionam:
+
+Caso o seu projeto apresente erros como os da imagem, siga os passos abaixo:
+
+<p align="center" >
+     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/173694166-189f3bce-070d-4f33-9a1d-7a9f1de95bb8.png">
+</p>
+
+Vá até <em>Window</em> e clique em <em>Preferences</em>.
+
+<p align="center" >
+     <img width="200" heigth="200" src="https://user-images.githubusercontent.com/101413385/173693126-8e2fec8b-91b1-4007-bbc5-010bb454f440.png">
+</p>
+
+Em seguida, clique em <em>General</em> e <em>Workspace</em>. Se o seu <em>Text File Enconding</em> não estiver com o <strong>Default (UTF-8)</strong>, clique em <em>Other</em>, e escolha a opção <strong>UTF-8</strong> e finalize clicando em <em>Apply and Close</em>.
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173691963-1e3d966e-5162-4393-9232-d5d395d5440f.png">
+</p>
+
 ## 📊 Banco de Dados
 
 ### Como importar o MySqlConnector no projeto?
