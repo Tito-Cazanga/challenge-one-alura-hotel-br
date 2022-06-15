@@ -1,6 +1,5 @@
 package views;
 
-import java.awt.BorderLayout;
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
@@ -16,11 +15,10 @@ import javax.swing.JLabel;
 import java.awt.Font;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
-import javax.swing.JSplitPane;
 import javax.swing.JTabbedPane;
-import javax.swing.JDesktopPane;
 import java.awt.Toolkit;
 
+@SuppressWarnings("serial")
 public class Buscar extends JFrame {
 
 	private JPanel contentPane;
